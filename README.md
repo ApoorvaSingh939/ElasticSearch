@@ -4,7 +4,7 @@ This project utilizes Spring Boot, Apache Camel and ElasticSearch to perform the
 
 - Reading data from a CSV file
 - Inserting it into Elasticsearch
-- Creating endpoints for retrieval, addition, and deletion of data
+- Created endpoints for retrieval, addition, and deletion of data
 
 ## Prerequisites
 
